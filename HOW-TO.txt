@@ -1,0 +1,9 @@
+1. Download Python 3.11.8 (https://www.python.org/ftp/python/3.11.8/python-3.11.8-amd64.exe)
+2. Click on START.bat or in the same folder open cmd.exe then press enter (put cmd.exe it in the file explorer)
+3. In cmd type the command:
+
+pip install -r requirements.txt
+
+4. In the same cmd type the command:
+
+python AutoComboScrapper.py  

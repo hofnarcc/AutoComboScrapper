@@ -1,0 +1,6 @@
+beautifulsoup4
+google
+pathvalidate
+requests
+urllib3
+tk
